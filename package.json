@@ -1,13 +1,16 @@
 {
-  "name": "atom1",
+  "name": "lottosod6g",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "0.0.1",
+  "description": "แทงหวยออนไลน์ LOTTOSOD6G ซื้อหวยออนไลน์ คาสิโนออนไลน์ 2023 ระบบฝากถอน ออโต้ รวดเร็ว เชื่อถือได้ สมัครง่ายไม่ต้องจำยูสเซอร์เปิดบริการตลอด 24 ชม",
   "keywords": [
-    "syntax",
-    "theme"
+    "แทงหวยออนไลน์",
+    "แทงหวยลาว",
+    "แทงหวยฮานอย",
+    "แทงหวยลอตโต้",
+    "แทงหวยลาวพัฒนา"
   ],
-  "repository": "https://github.com/atom/atom1",
+  "repository": "https://github.com/lottosod6g/atom1",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
